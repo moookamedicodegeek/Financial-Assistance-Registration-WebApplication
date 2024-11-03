@@ -1,0 +1,453 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Flow Finance.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Flow Finance.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\Downloads\\app-release.apk",
+      "PackagePath": "staticwebassets\\Downloads\\app-release.apk"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\css\\navbar-styles.css",
+      "PackagePath": "staticwebassets\\css\\navbar-styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\03ce21f7-899e-4ff7-a169-f664206490e4.jpg",
+      "PackagePath": "staticwebassets\\images\\03ce21f7-899e-4ff7-a169-f664206490e4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\1PqngoxrCqbvKPoAsdyPoMAceQE2_638654617725955797_IMG-20240808-WA0009.jpg",
+      "PackagePath": "staticwebassets\\images\\1PqngoxrCqbvKPoAsdyPoMAceQE2_638654617725955797_IMG-20240808-WA0009.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\6d0e9a9332e2f4cfaa77a5bd6ad1f52f.jpg",
+      "PackagePath": "staticwebassets\\images\\6d0e9a9332e2f4cfaa77a5bd6ad1f52f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\Background Image .jpg",
+      "PackagePath": "staticwebassets\\images\\Background Image .jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\DrUkuyzDhgeZj6AM92VyuJtUOlv2_638657202675410717_city.jpg",
+      "PackagePath": "staticwebassets\\images\\DrUkuyzDhgeZj6AM92VyuJtUOlv2_638657202675410717_city.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\Gs85fjlHW4Szy6gEcG7tyL9Fru32_638657213786139993_tiger.jpg",
+      "PackagePath": "staticwebassets\\images\\Gs85fjlHW4Szy6gEcG7tyL9Fru32_638657213786139993_tiger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\HecmZYehCqhzyabFDL7pyrxUYCF2_638659818571213398_bot.jpg",
+      "PackagePath": "staticwebassets\\images\\HecmZYehCqhzyabFDL7pyrxUYCF2_638659818571213398_bot.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\Image27-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\Image27-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\MepUJITxL7RbiMDVGl37zMPiUgF3_638654628344748336_IMG-20240808-WA0009.jpg",
+      "PackagePath": "staticwebassets\\images\\MepUJITxL7RbiMDVGl37zMPiUgF3_638654628344748336_IMG-20240808-WA0009.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\Screenshot 2023-06-05 094119.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2023-06-05 094119.png"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\Screenshot 2024-08-26 013150.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-08-26 013150.png"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\Untitled.png",
+      "PackagePath": "staticwebassets\\images\\Untitled.png"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\Uo0hAhfJWihpWa3yWLrGQMiDrmp1_638659006083407588_6d0e9a9332e2f4cfaa77a5bd6ad1f52f.jpg",
+      "PackagePath": "staticwebassets\\images\\Uo0hAhfJWihpWa3yWLrGQMiDrmp1_638659006083407588_6d0e9a9332e2f4cfaa77a5bd6ad1f52f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\Zsheop4ZYAhzNTnRNIDQ023yVqh1_638653794062197904_IMG-20240808-WA0009.jpg",
+      "PackagePath": "staticwebassets\\images\\Zsheop4ZYAhzNTnRNIDQ023yVqh1_638653794062197904_IMG-20240808-WA0009.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\Zsheop4ZYAhzNTnRNIDQ023yVqh1_638653802683962932_IMG-20240808-WA0009.jpg",
+      "PackagePath": "staticwebassets\\images\\Zsheop4ZYAhzNTnRNIDQ023yVqh1_638653802683962932_IMG-20240808-WA0009.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\ZsuzXw38n4YoB53fMqbCy2jQmGi2_638654633989506777_IMG-20240808-WA0009.jpg",
+      "PackagePath": "staticwebassets\\images\\ZsuzXw38n4YoB53fMqbCy2jQmGi2_638654633989506777_IMG-20240808-WA0009.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\a7a944a1-89f4-46da-aabb-c1d0dd249e13.jpg",
+      "PackagePath": "staticwebassets\\images\\a7a944a1-89f4-46da-aabb-c1d0dd249e13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\admin_638658920400116993_logo.jpg",
+      "PackagePath": "staticwebassets\\images\\admin_638658920400116993_logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\aiZFMhykgrPJ9ZUAnUNslvPO7Sm1_638657218612293405_WIN_20221129_09_35_10_Pro.jpg",
+      "PackagePath": "staticwebassets\\images\\aiZFMhykgrPJ9ZUAnUNslvPO7Sm1_638657218612293405_WIN_20221129_09_35_10_Pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\blue.jpg",
+      "PackagePath": "staticwebassets\\images\\blue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\d2H3dA0i4oeOn43srbS3U1brQnv1_638657261021757244_tiger.jpg",
+      "PackagePath": "staticwebassets\\images\\d2H3dA0i4oeOn43srbS3U1brQnv1_638657261021757244_tiger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\d5a42732-7d22-46f3-a8a8-1e7f6e784550.jpg",
+      "PackagePath": "staticwebassets\\images\\d5a42732-7d22-46f3-a8a8-1e7f6e784550.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\exOBKxyI4xZ3PeiTV4KcbPI1tfP2_638658897577080062_tiger.jpg",
+      "PackagePath": "staticwebassets\\images\\exOBKxyI4xZ3PeiTV4KcbPI1tfP2_638658897577080062_tiger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\facebook.jpg",
+      "PackagePath": "staticwebassets\\images\\facebook.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\gN0RzqA63yTAMhOXFNP5kchY28i2_638654611723980711_Picture1.png",
+      "PackagePath": "staticwebassets\\images\\gN0RzqA63yTAMhOXFNP5kchY28i2_638654611723980711_Picture1.png"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\groupx.png",
+      "PackagePath": "staticwebassets\\images\\groupx.png"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\hand.jpg",
+      "PackagePath": "staticwebassets\\images\\hand.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\icons.jpg",
+      "PackagePath": "staticwebassets\\images\\icons.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\instagram.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\klnAU847kCehWDi04ue2CBsfIRs1_638654743044677862_city.jpg",
+      "PackagePath": "staticwebassets\\images\\klnAU847kCehWDi04ue2CBsfIRs1_638654743044677862_city.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\lREDRPnyp0f5XwU4IEAOfd6uJR63_638654731006588191_IMG-20240808-WA0009.jpg",
+      "PackagePath": "staticwebassets\\images\\lREDRPnyp0f5XwU4IEAOfd6uJR63_638654731006588191_IMG-20240808-WA0009.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\linkedin.jpg",
+      "PackagePath": "staticwebassets\\images\\linkedin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\logo.jpg",
+      "PackagePath": "staticwebassets\\images\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\mooks.jpg",
+      "PackagePath": "staticwebassets\\images\\mooks.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\pgbTjh6kbQgCF5YgbjqscLjVUhL2_638657256636004487_water.jpg",
+      "PackagePath": "staticwebassets\\images\\pgbTjh6kbQgCF5YgbjqscLjVUhL2_638657256636004487_water.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\shopping (2).png",
+      "PackagePath": "staticwebassets\\images\\shopping (2).png"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\stock-vector-bubbles-underwater-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\stock-vector-bubbles-underwater-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\vwMSKnavk2UAwkQB0BFaHfjFJIg1_638659810072032801_bot.jpg",
+      "PackagePath": "staticwebassets\\images\\vwMSKnavk2UAwkQB0BFaHfjFJIg1_638659810072032801_bot.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\x8aXTr6lQuXC1dFx5FEWym2B8Ok1_638658932725781500_stock-vector-bubbles-underwater-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\x8aXTr6lQuXC1dFx5FEWym2B8Ok1_638658932725781500_stock-vector-bubbles-underwater-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\x8aXTr6lQuXC1dFx5FEWym2B8Ok1_638658954211077573_6d0e9a9332e2f4cfaa77a5bd6ad1f52f.jpg",
+      "PackagePath": "staticwebassets\\images\\x8aXTr6lQuXC1dFx5FEWym2B8Ok1_638658954211077573_6d0e9a9332e2f4cfaa77a5bd6ad1f52f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\x8aXTr6lQuXC1dFx5FEWym2B8Ok1_638658984511890893_6d0e9a9332e2f4cfaa77a5bd6ad1f52f.jpg",
+      "PackagePath": "staticwebassets\\images\\x8aXTr6lQuXC1dFx5FEWym2B8Ok1_638658984511890893_6d0e9a9332e2f4cfaa77a5bd6ad1f52f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\x8aXTr6lQuXC1dFx5FEWym2B8Ok1_638658987126835338_6d0e9a9332e2f4cfaa77a5bd6ad1f52f.jpg",
+      "PackagePath": "staticwebassets\\images\\x8aXTr6lQuXC1dFx5FEWym2B8Ok1_638658987126835338_6d0e9a9332e2f4cfaa77a5bd6ad1f52f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\xNEWlwDCf6daMBCUucpQWvHlJWW2_638653981259409735_IMG-20191024-WA0003.jpg",
+      "PackagePath": "staticwebassets\\images\\xNEWlwDCf6daMBCUucpQWvHlJWW2_638653981259409735_IMG-20191024-WA0003.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\xlaAOS7T0wOlDpplgBC7oFvRa5P2_638653820590067629_IMG-20240808-WA0009.jpg",
+      "PackagePath": "staticwebassets\\images\\xlaAOS7T0wOlDpplgBC7oFvRa5P2_638653820590067629_IMG-20240808-WA0009.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\images\\xlaAOS7T0wOlDpplgBC7oFvRa5P2_638654047555416263_IMG-20240808-WA0009.jpg",
+      "PackagePath": "staticwebassets\\images\\xlaAOS7T0wOlDpplgBC7oFvRa5P2_638654047555416263_IMG-20240808-WA0009.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Flow Finance.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Flow Finance.props",
+      "PackagePath": "build\\Flow Finance.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Flow Finance.props",
+      "PackagePath": "buildMultiTargeting\\Flow Finance.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Flow Finance.props",
+      "PackagePath": "buildTransitive\\Flow Finance.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

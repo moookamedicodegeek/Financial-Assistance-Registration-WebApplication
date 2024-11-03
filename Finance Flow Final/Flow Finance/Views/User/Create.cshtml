@@ -1,0 +1,142 @@
+﻿@model Flow_Finance.Models.UserModel
+
+@{
+    ViewData["Title"] = "Create Profile";
+}
+
+<!-- Styling for the page -->
+<style>
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #f0f4f8; /* Light background */
+        border-radius: 8px;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    }
+
+    h1, h2 {
+        color: #333;
+    }
+
+    .form-label {
+        font-weight: bold;
+    }
+
+    .form-control {
+        border-radius: 5px;
+        padding: 10px;
+        border: 1px solid #ccc;
+        font-size: 16px;
+    }
+
+    .btn-primary {
+        background-color: #5A4FCF; /* Match the button color to the screenshot */
+        border-color: #5A4FCF;
+        padding: 10px 20px;
+        font-size: 18px;
+        border-radius: 5px;
+    }
+
+        .btn-primary:hover {
+            background-color: #483AA8;
+            border-color: #483AA8;
+        }
+
+    .footer-links a {
+        text-decoration: none;
+        color: #333;
+        font-weight: 500;
+    }
+
+        .footer-links a:hover {
+            color: #5A4FCF;
+        }
+
+    .footer-links {
+        margin-top: 20px;
+    }
+</style>
+
+<h1 class="text-center">Create Profile</h1>
+
+<hr />
+<div class="container mt-5">
+    <div class="text-center mb-4">
+        <h2>Enter Your Details</h2>
+    </div>
+
+    <!-- Form for user details and image upload -->
+    <form asp-action="Create" enctype="multipart/form-data" method="post">
+        <div class="row">
+            <!-- Full Name -->
+            <div class="col-md-6 mb-3">
+                <label asp-for="Name" class="form-label">Full Name</label>
+                <input asp-for="Name" class="form-control" placeholder="Enter Full Name here" autocomplete="name" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+
+            <!-- Surname -->
+            <div class="col-md-6 mb-3">
+                <label asp-for="Surname" class="form-label">Surname</label>
+                <input asp-for="Surname" class="form-control" placeholder="Enter Surname here" autocomplete="surname" />
+                <span asp-validation-for="Surname" class="text-danger"></span>
+            </div>
+
+            <!-- Physical Address -->
+            <div class="col-md-6 mb-3">
+                <label asp-for="Address" class="form-label">Physical Address</label>
+                <input asp-for="Address" class="form-control" placeholder="Enter Address here" autocomplete="address" />
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+
+            <!-- Date of Birth -->
+            <div class="col-md-6 mb-3">
+                <label asp-for="DOB" class="form-label">Date of Birth</label>
+                <input asp-for="DOB" class="form-control" placeholder="Enter Date of Birth here" />
+                <span asp-validation-for="DOB" class="text-danger"></span>
+            </div>
+
+            <!-- File Upload for Image -->
+            <div class="col-md-6 mb-3">
+                <label class="form-label">Upload Profile Image</label>
+                <input type="file" name="file" class="form-control" />
+            </div>
+
+        </div>
+
+        <!-- Uploaded Image Preview (if available) -->
+        <div class="col-md-6 mb-3">
+            @if (ViewBag.ImageUrl != null)
+            {
+                <img src="@ViewBag.ImageUrl" alt="Uploaded Image" class="img-fluid" />
+            }
+            else
+            {
+                <p>No image available.</p>
+            }
+        </div>
+
+        <div class="col-md-6 mb-3">
+            <label class="form-label"></label>
+            <div class="form-check">
+                <input type="checkbox" class="form-check-input" id="virtualCard" checked disabled />
+                <label class="form-check-label" for="virtualCard">
+                    Request Virtual Card
+                </label>
+            </div>
+        </div>
+
+        <!-- Submit Button -->
+        <div class="text-center">
+            <input type="submit" value="Register" class="btn btn-primary" />
+        </div>
+    </form>
+
+   
+</div>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

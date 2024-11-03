@@ -1,0 +1,98 @@
+﻿@model IEnumerable<Flow_Finance.Models.UserModel>
+@{
+    ViewBag.Title = "Download";
+}
+
+
+<!-- Main Content -->
+<div class="main-content">
+    <!-- Info Section -->
+    <div class="app-info">
+        <h2>What using this app means</h2>
+        <ul>
+            <li>Personalized Financial Guidance</li>
+            <li>Simplified Money Management</li>
+            <li>Convenience on the Go</li>
+            <li>Financial Confidence</li>
+            <li>Security and Privacy</li>
+            <li>Real-Time Insights into Your Finances</li>
+        </ul>
+        <a href="@Url.Action("DownloadFile", "Home")" class="download-btn">Download</a>
+    </div>
+
+    <!-- Image Section -->
+    <div class="phone-image">
+        <img src="/images/hand.jpg" alt="Phone Image">
+    </div>
+</div>
+
+@section Styles {
+    <style>
+        body {
+            background-color: #e6f0f3;
+        }
+
+       
+
+
+        /* Main Content */
+        .main-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 30px;
+        }
+
+        .app-info {
+            width: 50%;
+            background-color: #d1dbe2;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .app-info h2 {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+
+        .app-info ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .app-info ul li {
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+
+        .download-btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #4c75a3;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            font-size: 18px;
+            margin-top: 20px;
+            text-align: center;
+            text-decoration:none;
+        }
+
+        .download-btn:hover {
+            background-color: #3b5a78;
+        }
+
+        /* Image Section */
+        .phone-image {
+            width: 50%;
+        }
+
+        .phone-image img {
+            width: 100%;
+            max-width: 400px;
+        }
+
+ 
+    </style>
+}

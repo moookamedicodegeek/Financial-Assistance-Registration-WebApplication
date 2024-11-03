@@ -1,0 +1,62 @@
+﻿@model Flow_Finance.Models.UserModel
+
+@{
+    ViewData["Title"] = "User Details";
+}
+
+<h2>User Details</h2>
+
+<!-- Display success message if it exists -->
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+<div>
+    <h4>User Profile</h4>
+    <hr />
+    <dl class="row">
+        <!-- Display User Details -->
+        <dt class="col-sm-2">Name</dt>
+        <dd class="col-sm-10">@Model.Name</dd>
+
+        <dt class="col-sm-2">Surname</dt>
+        <dd class="col-sm-10">@Model.Surname</dd>
+
+        <dt class="col-sm-2">Address</dt>
+        <dd class="col-sm-10">@Model.Address</dd>
+
+        <dt class="col-sm-2">Date of Birth</dt>
+        <dd class="col-sm-10">@Model.DOB</dd>
+
+        <dt class="col-sm-2">Email</dt>
+        <dd class="col-sm-10">@Model.Email</dd>
+
+        <!-- Display the Card Number -->
+        <dt class="col-sm-2">Account Number</dt>
+        <dd class="col-sm-10">@Model.CardNumber</dd>
+    </dl>
+</div>
+
+<div>
+    <!-- Display Profile Image -->
+    @if (!string.IsNullOrEmpty(Model.ImageUrl))
+    {
+        <img src="@Model.ImageUrl" alt="Uploaded Image" class="img-fluid" style="width: 150px; height: 150px; object-fit: cover; border-radius: 10%;" />
+    }
+    else
+    {
+        <p>No image available.</p>
+    }
+</div>
+<br />
+
+<div>
+    <!-- Edit Profile Button -->
+    <a asp-action="Edit" asp-route-id="@Model.Uid" class="btn btn-primary">Edit Profile</a>
+    <a asp-action="Delete" asp-route-id="@Model.Uid" class="btn btn-danger">Delete Account</a>
+
+</div>
+

@@ -1,0 +1,118 @@
+﻿@model Flow_Finance.Models.RegisterModel;
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Flow_Finance</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/navbar-styles.css" asp-append-version="true" />
+    <style>
+        html, body {
+            height: 100%; /* Ensure the body takes full height */
+            margin: 0;
+            display: flex;
+            flex-direction: column; /* Set up flexbox on body */
+        }
+
+        body {
+            background-color: #e6f0f3;
+        }
+
+        /* Main container to align two sections (left and right) */
+        .main-container {
+            flex: 1; /* This makes the container expand to fill available space */
+            display: flex;
+            justify-content: center; /* Center horizontally */
+            align-items: center; /* Center vertically */
+            padding: 0 2rem;
+        }
+
+        /* Left section with the image, text, and button */
+        .left-section {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            width: 100%; /* Full width */
+            position: relative;
+            height: 100%; /* Full height */
+        }
+
+            /* Image and overlay styling */
+            .left-section img {
+                max-width: 100%; /* Ensure image doesn't exceed container width */
+                height: auto;
+                object-fit: cover; /* Keeps the aspect ratio */
+            }
+
+        .text-overlay {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%); /* Center text */
+            color: black;
+            text-align: center; /* Center the text */
+        }
+
+            .text-overlay h1 {
+                font-size: 3rem;
+                font-weight: bold;
+                margin-bottom: 20px;
+            }
+
+            .text-overlay p {
+                font-size: 1.25rem;
+                margin-bottom: 30px;
+            }
+
+        .get-started-btn {
+            background-color: #5A4FCF;
+            color: white;
+            padding: 10px 20px;
+            font-size: 1.2rem;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        /* Footer styling */
+        footer {
+            background-color: #e8edf2;
+            padding: 1rem;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Main Content -->
+    <div class="main-container">
+        <!-- Left Section with Image and Text -->
+        <div class="left-section">
+            <!-- Replace with your actual image path -->
+            <img src="~/images/Background Image .jpg" alt="Hand holding phone">
+            <div class="text-overlay">
+                <h1>Personal Finance in your palm</h1>
+                <p>Easily track your income and expenses with our intuitive tool</p>
+                <button class="get-started-btn" onclick="window.location.href='@Url.Action("Registration", "Home")'">Get Started</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        &copy; 2024 - Finance Flow
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</body>
+</html>
+

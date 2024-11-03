@@ -1,0 +1,57 @@
+﻿@model Flow_Finance.Models.UserModel
+@{
+    ViewData["Title"] = "Edit User Profile";
+}
+
+<div class="container mt-5">
+    <h2>Edit User Profile</h2>
+
+    @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+    {
+        <div class="alert alert-danger">
+            @ViewBag.ErrorMessage
+        </div>
+    }
+
+    <form asp-action="Edit" method="post" enctype="multipart/form-data">
+        <input type="hidden" asp-for="Uid" />
+        <input type="hidden" asp-for="Email" />
+        <input type="hidden" asp-for="CardNumber" />
+        <input type="hidden" asp-for="ImageUrl" />
+
+        <div class="form-group mb-3">
+            <label asp-for="Name" class="control-label">Name</label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="Surname" class="control-label">Surname</label>
+            <input asp-for="Surname" class="form-control" />
+            <span asp-validation-for="Surname" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="Address" class="control-label">Address</label>
+            <input asp-for="Address" class="form-control" />
+            <span asp-validation-for="Address" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="DOB" class="control-label">Date of Birth</label>
+            <input asp-for="DOB" class="form-control" type="date" />
+            <span asp-validation-for="DOB" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mt-4">
+            <button type="submit" class="btn btn-primary">Save Changes</button>
+            <a asp-action="Details" asp-route-id="@Model.Uid" class="btn btn-secondary">Cancel</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

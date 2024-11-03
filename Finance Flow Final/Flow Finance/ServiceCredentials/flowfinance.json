@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "flowfinance-cf09d",
+  "private_key_id": "5c18b42592511f058b2909ce1d187cc32989c693",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDnCI1XSrXN6saP\nVKUqInopj8qnbq5NtK3PQpVHThmLjFRdvq08T2FFc1PocHJB3wb+1CoCpY8WwaoR\nwLtjdtIsRmp8FUsmKlo4eoM1PbaxUl4YpzC+v52xzG5EqC4QvMtZQAQjfQIwm6Ls\n8roK36RB5eaEhIkP+s1eGfNu+D5oBGLNz5vl/PX+PpDxJePKMs5sjppt66fEwlQQ\nt/JNqrK5Uuc1/rVRWYgoO/nePOS2C4u9KT+kN9XaRjj9Rlg5GHH1ccpMflnt4GOl\nKdndRmAcp/C9EGK8eusHvfRheAY+o/qthqlKiv9lvP4BMEyqZlMSiJHehY7yu/C9\nGVqJ2BENAgMBAAECggEAMC+7cxp1AubV1S09aaVZP3PrO7K9Dh4CJnlns0CZ2V5C\ndm7/qNWRny+nr5JMcmq3Bc1wma64QnHQK/W738n3mh5xtUGns+UffionVaJyiVd5\nosC0TQSgOmY+FXnSadFGxG2yr0gyfbroZ21U2lG867Wst7UA9WFFFjxpZprGQWFL\nW3rsgxfrKnEzD5+HHXgZJozjcHa2ratK0r4jGsVn7VBks9ohkyyi4kpVt6RP6xOI\nEAOekXG3an7A4cR9F3CCCrv9A+Jnud4rYPwMs9F+6dwQbatjKSw9UgAitNMxrLrO\nRkYR9CPndTlkCOLDe7Lj0tTELsb44wvT/eBqKQQ4gQKBgQDz00oXtBSJDu1PcKbA\nS1jOLW0JSclVI5y231URlPGRiYJwbuDJM8mE9Z/0m5jGYMTJ8GWJjnWGlhD5JW5b\nIb9etLAKUo5V+3ao0QuYMyeEr2W5Edz/+lDQlaSlFjZ5tDWAmzRkUIFt5BQTV0v/\niAtpgggdH8UmkC6olm2Qu+X/rQKBgQDykb++U/LCQVKdFnHdc3Eg4NUUdXgYwE/M\n1mwwUcgeO6BBqL4LB9CWWVX+l+lUHTaqqPFcR9VvHqKsSklkdIegEW3oNSFo6D7R\ncyJJ+4LMKAnbpE/kzHnz0rElst0xONKLDozsQX1DDOPxroC3BDuR3TPkxNXgfZUc\nEdZbhd8C4QKBgFweH4gFCR0e/plcviM4VDzQ/Ljdn6sC4VpV1hXmZ73MbfN8cICT\niDcrdVs8zeNk+/QvVq05nT1TxOXcNm1Hur1VFo1P02a4soPlNrQx32RJv+zDyvMK\n5y1m2+VjFwG0C+KiwJCFueCCovMLsDLCe01JSzd1oU6IephG/O4Jj0OhAoGBAO3V\n3k09fm7dIaWIlkhtomR8TjBrJUAPf672JsoRxcdu6yi1zPB/zxM7sMeaJ1sj8a/P\nSigS/sCfJx0LEX7/iuN1c3AUeBemb8FpxBsKEisertu+9d7+ZiydTrgJ8jsK3dUe\nhSo45BrUDsOvN+E6szXHz9Pk81fTilolWyoNzqXBAoGAUSjToyWKRljQeGMd7VTa\nCdrJX+rorMg9P2e+BTbAfgOnud94fr2TuStbbOdPbNqn8p3OWtklq9PmEDUriviD\nitUfyK0AaxtjuXnQIxmv//sURH6vsP+y4ac3h6x9HvSorOFxZgh1lVU7OHkkLseH\nBA6vwsxrYD68oMAYN5Fcmgg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-3z5wa@flowfinance-cf09d.iam.gserviceaccount.com",
+  "client_id": "116237122879885112789",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-3z5wa%40flowfinance-cf09d.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

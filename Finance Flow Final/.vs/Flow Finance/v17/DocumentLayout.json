@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|c:\\users\\tshepo motebele\\desktop\\finance flow final\\flow finance\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|solutionrelative:flow finance\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tshepo Motebele\\AppData\\Local\\Temp\\f0630826-3139-4b59-b807-2e04f512868b_Presentation[1].zip.68b\\Presentation\\Flow Finance\\Flow Finance\\Flow Finance (2)\\Flow Finance\\Flow Finance\\Flow Finance\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|c:\\users\\tshepo motebele\\desktop\\finance flow final\\flow finance\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|solutionrelative:flow finance\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|c:\\users\\tshepo motebele\\desktop\\finance flow final\\flow finance\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|solutionrelative:flow finance\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|c:\\users\\tshepo motebele\\desktop\\finance flow final\\flow finance\\views\\home\\download.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|solutionrelative:flow finance\\views\\home\\download.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|c:\\users\\tshepo motebele\\desktop\\finance flow final\\flow finance\\wwwroot\\css\\navbar-styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|solutionrelative:flow finance\\wwwroot\\css\\navbar-styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|c:\\users\\tshepo motebele\\desktop\\finance flow final\\flow finance\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|solutionrelative:flow finance\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|c:\\users\\tshepo motebele\\desktop\\finance flow final\\flow finance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|solutionrelative:flow finance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|c:\\users\\tshepo motebele\\desktop\\finance flow final\\flow finance\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|solutionrelative:flow finance\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|c:\\users\\tshepo motebele\\desktop\\finance flow final\\flow finance\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|solutionrelative:flow finance\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|c:\\users\\tshepo motebele\\desktop\\finance flow final\\flow finance\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|solutionrelative:flow finance\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|c:\\users\\tshepo motebele\\desktop\\finance flow final\\flow finance\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|solutionrelative:flow finance\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|c:\\users\\tshepo motebele\\desktop\\finance flow final\\flow finance\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|solutionrelative:flow finance\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|c:\\users\\tshepo motebele\\desktop\\finance flow final\\flow finance\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|solutionrelative:flow finance\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|c:\\users\\tshepo motebele\\desktop\\finance flow final\\flow finance\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|solutionrelative:flow finance\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|c:\\users\\tshepo motebele\\desktop\\finance flow final\\flow finance\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|solutionrelative:flow finance\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|c:\\users\\tshepo motebele\\desktop\\finance flow final\\flow finance\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|solutionrelative:flow finance\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|c:\\users\\tshepo motebele\\desktop\\finance flow final\\flow finance\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|solutionrelative:flow finance\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|c:\\users\\tshepo motebele\\desktop\\finance flow final\\flow finance\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|solutionrelative:flow finance\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|c:\\users\\tshepo motebele\\desktop\\finance flow final\\flow finance\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|solutionrelative:flow finance\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|c:\\users\\tshepo motebele\\desktop\\finance flow final\\flow finance\\views\\user\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|solutionrelative:flow finance\\views\\user\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|c:\\users\\tshepo motebele\\desktop\\finance flow final\\flow finance\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|solutionrelative:flow finance\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|c:\\users\\tshepo motebele\\desktop\\finance flow final\\flow finance\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|solutionrelative:flow finance\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|c:\\users\\tshepo motebele\\desktop\\finance flow final\\flow finance\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|solutionrelative:flow finance\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|c:\\users\\tshepo motebele\\desktop\\finance flow final\\flow finance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|solutionrelative:flow finance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|c:\\users\\tshepo motebele\\desktop\\finance flow final\\flow finance\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|solutionrelative:flow finance\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|c:\\users\\tshepo motebele\\desktop\\finance flow final\\flow finance\\models\\firebaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93108DA9-D9E6-42F8-977A-45E85FC64B30}|Flow Finance\\Flow Finance.csproj|solutionrelative:flow finance\\models\\firebaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Tshepo Motebele\\AppData\\Local\\Temp\\f0630826-3139-4b59-b807-2e04f512868b_Presentation[1].zip.68b\\Presentation\\Flow Finance\\Flow Finance\\Flow Finance (2)\\Flow Finance\\Flow Finance\\Flow Finance\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\f0630826-3139-4b59-b807-2e04f512868b_Presentation[1].zip.68b\\Presentation\\Flow Finance\\Flow Finance\\Flow Finance (2)\\Flow Finance\\Flow Finance\\Flow Finance\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Tshepo Motebele\\AppData\\Local\\Temp\\f0630826-3139-4b59-b807-2e04f512868b_Presentation[1].zip.68b\\Presentation\\Flow Finance\\Flow Finance\\Flow Finance (2)\\Flow Finance\\Flow Finance\\Flow Finance\\Controllers\\UserController.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\f0630826-3139-4b59-b807-2e04f512868b_Presentation[1].zip.68b\\Presentation\\Flow Finance\\Flow Finance\\Flow Finance (2)\\Flow Finance\\Flow Finance\\Flow Finance\\Controllers\\UserController.cs [Read Only]",
+              "ViewState": "AQIAAHABAAAAAAAAAAAAwIcBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T12:54:03.387Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Flow Finance\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Flow Finance\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T21:12:15.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Flow Finance\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Flow Finance\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T22:59:57.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Flow Finance\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Flow Finance\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAmwJoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:15:07.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Flow Finance\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Flow Finance\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAzwKAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T00:24:56.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Program.cs",
+              "RelativeDocumentMoniker": "Flow Finance\\Program.cs",
+              "ToolTip": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Program.cs",
+              "RelativeToolTip": "Flow Finance\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:39:12.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "navbar-styles.css",
+              "DocumentMoniker": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\css\\navbar-styles.css",
+              "RelativeDocumentMoniker": "Flow Finance\\wwwroot\\css\\navbar-styles.css",
+              "ToolTip": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\wwwroot\\css\\navbar-styles.css",
+              "RelativeToolTip": "Flow Finance\\wwwroot\\css\\navbar-styles.css",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-13T18:21:11.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Download.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Views\\Home\\Download.cshtml",
+              "RelativeDocumentMoniker": "Flow Finance\\Views\\Home\\Download.cshtml",
+              "ToolTip": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Views\\Home\\Download.cshtml",
+              "RelativeToolTip": "Flow Finance\\Views\\Home\\Download.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAE4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T19:55:11.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Flow Finance\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Flow Finance\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAOoAAAAAAAAAAAAwwBEBAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:53:20.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Views\\User\\Details.cshtml",
+              "RelativeDocumentMoniker": "Flow Finance\\Views\\User\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Views\\User\\Details.cshtml",
+              "RelativeToolTip": "Flow Finance\\Views\\User\\Details.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADoAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T14:43:50.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Flow Finance\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "Flow Finance\\Views\\User\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T14:44:15.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Flow Finance\\Views\\User\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "Flow Finance\\Views\\User\\Delete.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T17:52:52.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Flow Finance\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Flow Finance\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:36:23.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Flow Finance\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Flow Finance\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T22:36:32.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Flow Finance\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Flow Finance\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T20:52:39.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Flow Finance\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Flow Finance\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T11:17:18.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Views\\Admin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Flow Finance\\Views\\Admin\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Views\\Admin\\Edit.cshtml",
+              "RelativeToolTip": "Flow Finance\\Views\\Admin\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T11:19:26.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Views\\Home\\Registration.cshtml",
+              "RelativeDocumentMoniker": "Flow Finance\\Views\\Home\\Registration.cshtml",
+              "ToolTip": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Views\\Home\\Registration.cshtml",
+              "RelativeToolTip": "Flow Finance\\Views\\Home\\Registration.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T22:13:14.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Views\\User\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "Flow Finance\\Views\\User\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Views\\User\\ForgotPassword.cshtml",
+              "RelativeToolTip": "Flow Finance\\Views\\User\\ForgotPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T22:36:29.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Flow Finance\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Models\\UserModel.cs",
+              "RelativeToolTip": "Flow Finance\\Models\\UserModel.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA0wB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T00:09:43.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Flow Finance\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Flow Finance\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:38:02.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Flow Finance\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Flow Finance\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:17:44.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Flow Finance\\Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "Flow Finance\\Models\\RegisterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:44:07.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "Flow Finance\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "Flow Finance\\Views\\User\\Create.cshtml",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAEEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T14:01:23.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\appsettings.json",
+              "RelativeDocumentMoniker": "Flow Finance\\appsettings.json",
+              "ToolTip": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\appsettings.json",
+              "RelativeToolTip": "Flow Finance\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T11:08:51.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Flow Finance\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Flow Finance\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T10:18:26.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FirebaseException.cs",
+              "DocumentMoniker": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Models\\FirebaseException.cs",
+              "RelativeDocumentMoniker": "Flow Finance\\Models\\FirebaseException.cs",
+              "ToolTip": "C:\\Users\\Tshepo Motebele\\Desktop\\Finance Flow Final\\Flow Finance\\Models\\FirebaseException.cs",
+              "RelativeToolTip": "Flow Finance\\Models\\FirebaseException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:48:08.216Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

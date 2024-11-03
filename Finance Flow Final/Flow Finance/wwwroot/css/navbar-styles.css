@@ -1,0 +1,101 @@
+﻿body {
+    background-color: #e6f0f3;
+    margin: 0;
+    padding-top: 60px; /* Add padding to prevent content from being hidden behind the fixed navbar */
+}
+
+/* Navbar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #d1dbe2;
+    padding: 15px;
+    border-bottom: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: fixed; /* Make the navbar fixed */
+    top: 0;
+    width: 100%;
+    z-index: 1000; /* Ensure the navbar stays above other elements */
+}
+
+.navbar-logo img {
+    height: 40px;
+}
+
+.navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+    color: #444;
+    text-decoration: none;
+}
+
+    .navbar-brand:hover {
+        color: #000;
+    }
+
+.navbar-toggler {
+    border: none;
+}
+
+.navbar-toggler-icon {
+    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="black" class="bi bi-list" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M2.5 4.5A.5.5 0 0 1 3 4h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0 4A.5.5 0 0 1 3 8h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0 4A.5.5 0 0 1 3 12h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/></svg>');
+}
+
+.navbar-collapse {
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-nav {
+    display: flex;
+    gap: 20px;
+}
+
+.nav-item {
+    list-style: none;
+}
+
+.nav-link {
+    text-decoration: none;
+    font-weight: bold;
+    color: #444;
+    padding: 5px;
+    transition: color 0.3s ease;
+}
+
+.navbar-links a:hover {
+    color: #FF0000;
+}
+
+.navbar-links a.active {
+    color: #d9534f;
+    border-bottom: 3px solid #d9534f;
+}
+
+/* Footer */
+footer {
+    background-color: #d1dbe2;
+    padding: 15px;
+    text-align: center;
+}
+
+.footer-links {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 15px;
+}
+
+    .footer-links a {
+        text-decoration: none;
+        font-weight: bold;
+        color: #444;
+    }
+
+.social-icons img {
+    height: 24px;
+    margin: 0 10px;
+}

@@ -1,0 +1,118 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Flow_Finance</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/navbar-styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+   
+    @RenderSection("Styles", required: false)
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="navbar-logo">
+                <img src="/images/logo.jpg" alt="Finance Flow Logo">
+            </div>
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Flow_Finance</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            if (ViewBag.IsProfileCreated != null && (bool)ViewBag.IsProfileCreated)
+                            {
+                                if (ViewContext.RouteData.Values["Controller"].ToString() == "Home" &&
+                                (ViewContext.RouteData.Values["Action"].ToString() == "Download" ||
+                                ViewContext.RouteData.Values["Action"].ToString() == "AboutUs"))
+                                {
+                                    <li class="nav-item">
+                                        <a class="nav-link text-dark active" asp-area="" asp-controller="User" asp-action="Details">My Profile</a>
+                                    </li>
+                                }
+                                else
+                                {
+                                    <li class="nav-item">
+                                        <a class="nav-link text-dark @(ViewContext.RouteData.Values["Controller"].ToString() == "User" && ViewContext.RouteData.Values["Action"].ToString() == "Details" ? "active" : "")" asp-area="" asp-controller="User" asp-action="Details">My Profile</a>
+                                    </li>
+                                }
+                            }
+                            else
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark @(ViewContext.RouteData.Values["Controller"].ToString() == "User" && ViewContext.RouteData.Values["Action"].ToString() == "Create" ? "active" : "")" asp-area="" asp-controller="User" asp-action="Create">Profile</a>
+                                </li>
+                            }
+                            <li class="nav-item">
+                                <a class="nav-link text-dark @(ViewContext.RouteData.Values["Controller"].ToString() == "Home" && ViewContext.RouteData.Values["Action"].ToString() == "SignOut" ? "active" : "")" asp-controller="Home" asp-action="SignOut">Logout</a>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark @(ViewContext.RouteData.Values["Controller"].ToString() == "Home" && ViewContext.RouteData.Values["Action"].ToString() == "Login" ? "active" : "")" asp-area="" asp-controller="Home" asp-action="Login">Login</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark @(ViewContext.RouteData.Values["Controller"].ToString() == "Home" && ViewContext.RouteData.Values["Action"].ToString() == "Registration" ? "active" : "")" asp-area="" asp-controller="Home" asp-action="Registration">Register</a>
+                            </li>
+                        }
+
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-controller="Admin" asp-action="Index">User Management</a>
+                            </li>
+                        }
+
+                        <li class="nav-item">
+                            <a class="nav-link text-dark @(ViewContext.RouteData.Values["Controller"].ToString() == "Home" && ViewContext.RouteData.Values["Action"].ToString() == "Download" ? "active" : "")" asp-area="" asp-controller="Home" asp-action="Download">Download</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link text-dark @(ViewContext.RouteData.Values["Controller"].ToString() == "Home" && ViewContext.RouteData.Values["Action"].ToString() == "AboutUs" ? "active" : "")" asp-area="" asp-controller="Home" asp-action="AboutUs">About Us</a>
+                        </li>
+                    </ul>
+                </div>
+
+
+            </div>
+        </nav>
+
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-links">
+         
+
+            <a href="@Url.Action("Security", "Home")">Security</a>
+            <a href="@Url.Action("PrivacyPolicy", "Home")">Privacy Policy</a>
+            <a href="@Url.Action("ContactUs", "Home")">Contact Us</a>
+        </div>
+        <div class="social-icons">
+            <img src="/images/facebook.jpg" alt="Facebook">
+            <img src="/images/instagram.jpg" alt="Instagram">
+            <img src="/images/linkedin.jpg" alt="LinkedIn">
+        </div>
+
+        <div class="container">
+            &copy; 2024 - Flow_Finance - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
